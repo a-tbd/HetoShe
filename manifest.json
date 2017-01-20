@@ -7,7 +7,7 @@
 
   "content_scripts": [{
     "matches": ["*://*/*"],
-    "js": ["content.js"],
+    "js": ["hetoshe.js"],
     "run_at": "document_end"
   }]
 }
